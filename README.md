@@ -78,7 +78,7 @@ Here are some ideas to get you started:
 </a> 
 
 <a href="https://krita.org/" target="_blank"> 
-  <img src="https://krita.org/wp-content/themes/krita-org-theme/images/krita-logo.png?v2021" alt="krita" width="40" height="40"/> 
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Calligrakrita-base.svg/1200px-Calligrakrita-base.svg.png" alt="krita" width="40" height="40"/> 
 </a> 
 
 <a href="https://obsproject.com/" target="_blank"> 
