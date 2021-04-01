@@ -86,6 +86,6 @@ Here are some ideas to get you started:
 </a> 
 
 <a href="https://www.gimp.org/" target="_blank"> 
-  <img src="https://logonoid.com/images/thumbs/gimp-logo.png" alt="gimp" width="40" height="40"/> 
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/The_GIMP_icon_-_gnome.svg/langfr-1024px-The_GIMP_icon_-_gnome.svg.png" alt="gimp" width="40" height="40"/> 
 </a> 
 
