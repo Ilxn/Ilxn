@@ -29,19 +29,19 @@ Here are some ideas to get you started:
 <p align="left"> 
 <h5 align="left">Frequently used</h5>  
 <a href="https://www.w3.org/html/" target="_blank"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="60" height="60"/> 
 </a> 
 
 <a href="https://www.w3schools.com/css/" target="_blank"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="60" height="60"/> 
 </a>
 
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="60" height="60"/> 
 </a> 
 
 <a href="https://www.python.org" target="_blank"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="60" height="60"/> 
 </a> 
 
 <h5 align="left">Occasionally used</h5>  
@@ -74,18 +74,18 @@ Here are some ideas to get you started:
 <h3 align="left">Software:</h3>
 
 <a href="https://www.blender.org/" target="_blank"> 
-  <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> 
+  <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="60" height="60"/> 
 </a> 
 
 <a href="https://krita.org/" target="_blank"> 
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Calligrakrita-base.svg/1200px-Calligrakrita-base.svg.png" alt="krita" width="40" height="40"/> 
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Calligrakrita-base.svg/1200px-Calligrakrita-base.svg.png" alt="krita" width="60" height="60"/> 
 </a> 
 
 <a href="https://obsproject.com/" target="_blank"> 
-  <img src="https://obsproject.com/assets/images/new_icon_small-r.png" alt="obs" width="40" height="40"/> 
+  <img src="https://obsproject.com/assets/images/new_icon_small-r.png" alt="obs" width="60" height="60"/> 
 </a> 
 
 <a href="https://www.gimp.org/" target="_blank"> 
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/The_GIMP_icon_-_gnome.svg/langfr-1024px-The_GIMP_icon_-_gnome.svg.png" alt="gimp" width="40" height="40"/> 
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/The_GIMP_icon_-_gnome.svg/langfr-1024px-The_GIMP_icon_-_gnome.svg.png" alt="gimp" width="60" height="60"/> 
 </a> 
 
