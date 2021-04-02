@@ -47,7 +47,7 @@ Here are some ideas to get you started:
 ### 👋 Hi there,
 I'm Ilan Melfort, a french student passionate about web development and graphic design. I spend my free time on these activities. I enjoy discovering new digital trends. I hope to have the opportunity to learn and work across multiple technologies in the future.
 
-### When I close Blender and SublimeText :
+### ❌ When I close Blender and SublimeText :
 - I study 📚(*ofc.*)
 - .. play chess trying to survive the Nimzo-Indian ♟💨
 - .. look for series and anime to watch🖥, manga to read💢
