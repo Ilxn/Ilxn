@@ -1,7 +1,17 @@
-###### currently working on MChess - https://ilxn.github.io/MChess/
-![](Ilxn(3).gif)
-### Hi there 👋
 
+
+<p align="left"> 
+<a href="https://www.linux.org/" target="_blank"> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> 
+</a> 
+  <img src="https://assets.ubuntu.com/v1/57a889f6-ubuntu-logo112.png" alt"ubuntu" width="40" height "40"/>
+</p>
+
+
+
+<img src="Ilxn(3).gif"/>
+
+###### currently working on MChess - https://ilxn.github.io/MChess/
 
 <!--
 **Ilxn/Ilxn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -31,14 +41,18 @@ Here are some ideas to get you started:
   </a>
 </h3>
 
-<h3 align="center">French student, passionate about web development</h3>
 
-<p align="left"> 
-<a href="https://www.linux.org/" target="_blank"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> 
-</a> 
-  <img src="https://assets.ubuntu.com/v1/57a889f6-ubuntu-logo112.png" alt"ubuntu" width="40" height "40"/>
-</p>
+
+
+### Hi there 👋
+I'm Ilan Melfort, a french student passionate about web development and graphic design. I spend my free time on these activities. I enjoy discovering new digital trends. I hope to have the opportunity to learn and work across multiple technologies in the future.
+
+
+
+
+
+
+
 <hr>
 
 <h3 align="left">Languages and Tools:</h3>
