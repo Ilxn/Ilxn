@@ -20,16 +20,15 @@ Here are some ideas to get you started:
 
 <h3 align="center">
 
-  <a href="https://discordapp.com/users/572828712630747147" target="_blank">
-   <img src="https://cdn.icon-icons.com/icons2/2108/PNG/512/discord_icon_130958.png" alt="discord user" width="20" height="20"/> Discord Profile
-  </a>
-  
- <img src="https://upload.wikimedia.org/wikipedia/commons/5/59/Empty.png" width="200" height="20"/>
- 
   <a href="https://drive.google.com/drive/u/0/folders/1MKHcDKF43yKGHqozUAmb_pEPtiPvjMQh" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Google_Drive_icon_(2020).svg/1200px-Google_Drive_icon_(2020).svg.png" alt="google drive" width="20" height="20"/> Google Drive
   </a>
   
+ <img src="https://upload.wikimedia.org/wikipedia/commons/5/59/Empty.png" width="200" height="20"/>
+  
+  <a href="https://discordapp.com/users/572828712630747147" target="_blank">
+   <img src="https://cdn.icon-icons.com/icons2/2108/PNG/512/discord_icon_130958.png" alt="discord user" width="20" height="20"/> Discord Profile
+  </a>
 </h3>
 
 <h3 align="center">French student, passionate about web development</h3>
