@@ -36,7 +36,7 @@ Here are some ideas to get you started:
   
  <img src="https://upload.wikimedia.org/wikipedia/commons/5/59/Empty.png" width="200" height="20"/>
   
-  <a href="dsc.bio/ilxn" target="_blank">
+  <a href="https://discord.bio/p/ilxn" target="_blank">
    <img src="https://cdn.icon-icons.com/icons2/2108/PNG/512/discord_icon_130958.png" alt="discord user" width="20" height="20"/> Discord Profile
   </a>
 </h3>
