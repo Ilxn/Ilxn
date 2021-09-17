@@ -1,13 +1,4 @@
 
-
-<p align="left"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> 
-</a> 
-  <img src="https://assets.ubuntu.com/v1/57a889f6-ubuntu-logo112.png" alt"ubuntu" width="40" height "40"/>
-</p>
-
-
-
 <img src="Ilxn(3).gif"/>
 
 ###### currently working on MChess - https://ilxn.github.io/MChess/
